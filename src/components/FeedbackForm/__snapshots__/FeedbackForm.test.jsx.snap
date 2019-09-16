@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: <FeedbackForm /> renders correctly 1`] = `
+<DocumentFragment>
+  <form
+    class="ui form feedbackform"
+  >
+    <div
+      class="fields feedbackform--yesno"
+    >
+      <div
+        class="feedbackform--yesno-label"
+      >
+        Was this helpful?
+      </div>
+      <div
+        class="field"
+      >
+        <div
+          class="ui radio checkbox"
+        >
+          <input
+            class="hidden"
+            id="yesNo-yes"
+            name="yesNo"
+            readonly=""
+            tabindex="0"
+            type="radio"
+            value="Yes"
+          />
+          <label
+            for="yesNo-yes"
+          >
+            Yes
+          </label>
+        </div>
+      </div>
+      <div
+        class="field"
+      >
+        <div
+          class="ui radio checkbox"
+        >
+          <input
+            class="hidden"
+            id="yesNo-no"
+            name="yesNo"
+            readonly=""
+            tabindex="0"
+            type="radio"
+            value="No"
+          />
+          <label
+            for="yesNo-no"
+          >
+            No
+          </label>
+        </div>
+      </div>
+    </div>
+  </form>
+</DocumentFragment>
+`;
