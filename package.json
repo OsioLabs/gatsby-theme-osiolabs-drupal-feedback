@@ -4,9 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "gatsby-theme-osiolabs-drupal": "https://github.com/OsioLabs/gatsby-theme-osiolabs-drupal.git#1.0.1",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "gatsby-theme-osiolabs-drupal": "https://github.com/OsioLabs/gatsby-theme-osiolabs-drupal.git"
   },
   "devDependencies": {
     "@babel/core": "^7.1.5",
@@ -27,7 +25,9 @@
     "jest": "^24.8.0",
     "jest-dom": "^3.2.1",
     "jest-fetch-mock": "^1.7.4",
-    "prettier": "^1.17.0"
+    "prettier": "^1.17.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
   },
   "peerDependencies": {
     "gatsby": "^2.0.19",
