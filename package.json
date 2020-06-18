@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "gatsby-theme-osiolabs-drupal": "https://github.com/OsioLabs/gatsby-theme-osiolabs-drupal.git"
+    "gatsby-theme-osiolabs-drupal": "https://github.com/OsioLabs/gatsby-theme-osiolabs-drupal.git#semver:^1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.5",
